@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ZhangXin1018
 - 👀 I’m interested in data science and ai technologies and topics
-- 🌱 I’m currently learning back-end with python, data analytics, machine learning and intelligent alogrithms 
 - 📫 How to reach me 
 
 <!---
